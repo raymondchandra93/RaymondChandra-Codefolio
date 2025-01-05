@@ -11,7 +11,8 @@ Here are my work portfolios that you can visit to showcase my experience:
 
 ## Java based Software Developer
 1. Core Java OOD - IN PROGRESS
-2. Spring Boot - IN PROGRESS
+2. React with Material UI - https://github.com/raymondchandra93/React-Work-Portfolio
+3. Spring Boot - https://github.com/raymondchandra93/SpringBoot-Work-Portfolio
 
 ## Python based Software Developer
 1. Core Python OOD - IN PROGRESS
