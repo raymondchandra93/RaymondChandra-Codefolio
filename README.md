@@ -7,7 +7,7 @@ Here are my work portfolios that you can visit to showcase my experience:
 ## Software Quality Assurance Engineer
 1. Selenium Java - https://github.com/raymondchandra93/SeleniumJava-Work-Portfolio
 3. Visual Testing w/ Applitools AI using Selenium Java - https://github.com/raymondchandra93/ApplitoolsAI-Work-Portfolio.git
-4. Rest Assured w/ Selenium Java - https://github.com/raymondchandra93/RestAssured-Work-Portfolio
+4. Rest Assured w/ Cucumber - https://github.com/raymondchandra93/RestAssured-Work-Portfolio
 
 ## Java based Software Developer
 1. Core Java OOD - https://github.com/raymondchandra93/CoreJava-Work-Portfolio
