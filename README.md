@@ -5,7 +5,7 @@ This repository will be a centralized repository that will point to all of my ot
 Here are my work portfolios that you can visit to showcase my experience:
 
 ## Web Portfolios
-1. What's in my fridge? - IN PROGRESS
+1. My Favourite Recipes - IN PROGRESS
 
 ## Software Quality Assurance Engineer
 1. Selenium Java - https://github.com/raymondchandra93/SeleniumJava-Work-Portfolio
