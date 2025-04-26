@@ -19,14 +19,15 @@ Created with React, Java Spring Boot, and MySQL DB
 
 ## Java-based Software Development
 1. Core Java - https://github.com/raymondchandra93/Core-Java-Adventure
-2. Spring Boot - https://github.com/raymondchandra93/SpringBoot-Work-Portfolio
+
 
 ## Frontend Javascript/Typescript-based Software Development
 1. React Typescript with Material UI - https://github.com/raymondchandra93/React-Work-Portfolio
 2. Angular Typescript - https://github.com/raymondchandra93/Angular-Work-Portfolio
 
 ## Backend Javascript/Typescript-based Software Development
-1. ExpressJS - https://github.com/raymondchandra93/ExpressJS-Work-Portfolio
+1. Spring Boot - https://github.com/raymondchandra93/SpringBoot-Adventure
+2. Express JS - https://github.com/raymondchandra93/ExpressJS-Adventure
 
 ## Python-based Software Developer
 1. Python Tutoring for students - https://github.com/raymondchandra93/L4_Python_GitDemo 
