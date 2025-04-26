@@ -18,7 +18,7 @@ Created with React, Java Spring Boot, and MySQL DB
 4. Playwright with Typescript - https://github.com/raymondchandra93/PlaywrightTS-Work-Portfolio
 
 ## Java-based Software Development
-1. Core Java OOD - https://github.com/raymondchandra93/CoreJava-Work-Portfolio
+1. Core Java - https://github.com/raymondchandra93/Core-Java-Adventure
 2. Spring Boot - https://github.com/raymondchandra93/SpringBoot-Work-Portfolio
 
 ## Frontend Javascript/Typescript-based Software Development
