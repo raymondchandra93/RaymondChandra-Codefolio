@@ -9,26 +9,26 @@ This repo is like a "hub" 🛠️ that links to all of my other portfolios. I’
 
 Here are some of my portfolios showcasing my work and experience: 
 
-## Full-Stack Web Portfolios
+## Full-Stack Web Development
 1. My Favourite Recipes - https://github.com/raymondchandra93/MyFavouriteRecipe
-Created with React, Java Spring Boot, and MySQL DB
+- Created with React, Java Spring Boot, and MySQL DB
 
-## Software Quality Assurance Engineer
+## Software Quality Assurance Engineer (QAE)/Software Development Engineering in Test (SDET)
 1. Selenium Java - https://github.com/raymondchandra93/SeleniumJava-Work-Portfolio
-2. Visual Testing w/ Applitools AI using Selenium Java - https://github.com/raymondchandra93/ApplitoolsAI-Work-Portfolio.git
-3. Rest Assured w/ Cucumber - https://github.com/raymondchandra93/RestAssured-Work-Portfolio
-4. Playwright with Typescript - https://github.com/raymondchandra93/PlaywrightTS-Work-Portfolio
+2. Rest Assured w/ Cucumber - https://github.com/raymondchandra93/RestAssured-Work-Portfolio
+3. Playwright with Typescript - https://github.com/raymondchandra93/PlaywrightTS-Work-Portfolio
 
-## Java-based Software Development
+## Java-based
 1. Core Java - https://github.com/raymondchandra93/Core-Java-Adventure
 
-## Frontend Javascript/Typescript-based Software Development
+## Python-based
+1. Teaching Python for kids - https://github.com/raymondchandra93/Teaching-Python-Adventure.git
+
+## Frontend Software Development
 1. React Typescript with Material UI - https://github.com/raymondchandra93/React-Work-Portfolio
 2. Angular Typescript - https://github.com/raymondchandra93/Angular-Work-Portfolio
 
-## Backend Javascript/Typescript-based Software Development
+## Backend Software Development
 1. Spring Boot - https://github.com/raymondchandra93/SpringBoot-Adventure
 2. Express JS - https://github.com/raymondchandra93/ExpressJS-Adventure
 
-## Python-based Software Developer
-1. Teaching Python for kids - https://github.com/raymondchandra93/Teaching-Python-Adventure.git
