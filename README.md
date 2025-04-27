@@ -1,11 +1,13 @@
-# RaymondChandra-Portfolio
-Hi, first of all, thank you for visiting! :)
-This repository will be a centralized repository that will point to all of my other portfolios
+# RaymondChandra-Codefolio
+### Hey there! 👋
 
-NOTE: Some of the projects are not done, in fact, I keep adding things here and there each day as my best.
-Even though it is not done, I hope this can help you and give insights about who I am as a coder
+First off, a HUGE thank you for stopping by! 😊
 
-Here are my work portfolios that you can visit to showcase my experience:
+This repo is like a "hub" 🛠️ that links to all of my other portfolios. I’m constantly adding new projects, so feel free to explore and see what I'm working on! 
+
+⚠️ **NOTE:** Some of the projects are still a work in progress, and I’m updating them daily as I continue to learn and improve. Even though they’re not fully done yet, I hope you find something that resonates with you and gives you a glimpse of who I am as a coder. 🚀
+
+Here are some of my portfolios showcasing my work and experience: 
 
 ## Full-Stack Web Portfolios
 1. My Favourite Recipes - https://github.com/raymondchandra93/MyFavouriteRecipe
