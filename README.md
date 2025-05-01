@@ -21,9 +21,6 @@ Here are some of my portfolios showcasing my work and experience:
 ## Java-based
 1. Core Java - https://github.com/raymondchandra93/Core-Java-Adventure
 
-## Python-based
-1. Teaching Python for kids - https://github.com/raymondchandra93/Teaching-Python-Adventure.git
-
 ## Frontend Software Development
 1. Core Frontend Development - https://github.com/raymondchandra93/Core-Frontend-Development
 2. React Typescript with Material UI - https://github.com/raymondchandra93/React-Work-Portfolio
@@ -32,4 +29,8 @@ Here are some of my portfolios showcasing my work and experience:
 ## Backend Software Development
 1. Spring Boot - https://github.com/raymondchandra93/SpringBoot-Adventure
 2. Express JS - https://github.com/raymondchandra93/ExpressJS-Adventure
+
+## Teaching Kids
+1. Teaching Python - https://github.com/raymondchandra93/Teaching-Python-Adventure.git
+2. Teaching Web Development - https://github.com/raymondchandra93/Teaching-Web-Development-Adventure
 
