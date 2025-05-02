@@ -23,7 +23,7 @@ Here are some of my portfolios showcasing my work and experience:
 
 ## Frontend Software Development
 1. Core Frontend Development - https://github.com/raymondchandra93/Core-Frontend-Development
-2. React Typescript with Material UI - https://github.com/raymondchandra93/React-Work-Portfolio
+2. React with Typescript - https://github.com/raymondchandra93/React-Adventure
 3. Angular Typescript - https://github.com/raymondchandra93/Angular-Work-Portfolio
 
 ## Backend Software Development
