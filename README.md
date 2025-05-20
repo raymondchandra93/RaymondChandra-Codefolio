@@ -18,8 +18,9 @@ Here are some of my portfolios showcasing my work and experience:
 2. Rest Assured w/ Cucumber - https://github.com/raymondchandra93/RestAssured-Work-Portfolio
 3. Playwright with Typescript - https://github.com/raymondchandra93/PlaywrightTS-Work-Portfolio
 
-## Java-based
+## Java-based Software Development
 1. Core Java - https://github.com/raymondchandra93/Core-Java-Adventure
+2. Java Problem Solving - https://github.com/raymondchandra93/Java-Problem-Solving
 
 ## Frontend Software Development
 1. Core Frontend Development - https://github.com/raymondchandra93/Core-Frontend-Development
@@ -33,4 +34,7 @@ Here are some of my portfolios showcasing my work and experience:
 ## Teaching Kids
 1. Teaching Python - https://github.com/raymondchandra93/Teaching-Python-Adventure.git
 2. Teaching Web Development - https://github.com/raymondchandra93/Teaching-Web-Development-Adventure
+
+## DevOps
+1. Jenkins Adventure - https://github.com/raymondchandra93/Jenkins-Adventure/tree/main
 
